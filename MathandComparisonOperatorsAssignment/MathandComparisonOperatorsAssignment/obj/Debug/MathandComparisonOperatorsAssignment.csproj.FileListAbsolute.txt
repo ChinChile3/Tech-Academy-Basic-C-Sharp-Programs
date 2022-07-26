@@ -1,0 +1,7 @@
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\MathandComparisonOperatorsAssignment\MathandComparisonOperatorsAssignment\bin\Debug\MathandComparisonOperatorsAssignment.exe.config
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\MathandComparisonOperatorsAssignment\MathandComparisonOperatorsAssignment\bin\Debug\MathandComparisonOperatorsAssignment.exe
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\MathandComparisonOperatorsAssignment\MathandComparisonOperatorsAssignment\bin\Debug\MathandComparisonOperatorsAssignment.pdb
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\MathandComparisonOperatorsAssignment\MathandComparisonOperatorsAssignment\obj\Debug\MathandComparisonOperatorsAssignment.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\MathandComparisonOperatorsAssignment\MathandComparisonOperatorsAssignment\obj\Debug\MathandComparisonOperatorsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\MathandComparisonOperatorsAssignment\MathandComparisonOperatorsAssignment\obj\Debug\MathandComparisonOperatorsAssignment.exe
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\MathandComparisonOperatorsAssignment\MathandComparisonOperatorsAssignment\obj\Debug\MathandComparisonOperatorsAssignment.pdb

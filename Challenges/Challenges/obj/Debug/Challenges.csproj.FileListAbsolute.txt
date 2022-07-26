@@ -1,0 +1,7 @@
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\Challenges\Challenges\bin\Debug\Challenges.exe.config
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\Challenges\Challenges\bin\Debug\Challenges.exe
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\Challenges\Challenges\bin\Debug\Challenges.pdb
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\Challenges\Challenges\obj\Debug\Challenges.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\Challenges\Challenges\obj\Debug\Challenges.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\Challenges\Challenges\obj\Debug\Challenges.exe
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\Challenges\Challenges\obj\Debug\Challenges.pdb
