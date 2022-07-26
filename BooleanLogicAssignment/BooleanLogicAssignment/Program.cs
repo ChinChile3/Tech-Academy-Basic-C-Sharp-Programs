@@ -20,7 +20,7 @@ namespace BooleanLogicAssignment
             Console.WriteLine("How many speeding tickets do you have?");
             string tickets = Console.ReadLine();
 
-            Console.WriteLine("Qualified");
+            Console.WriteLine("Qualified?");
             Console.WriteLine(Convert.ToInt32(age) > 15 && Convert.ToBoolean(DUI) == false && Convert.ToInt32(tickets) <= 3);
             Console.ReadLine();
 
