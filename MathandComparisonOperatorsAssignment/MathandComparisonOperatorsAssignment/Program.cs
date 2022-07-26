@@ -10,12 +10,6 @@ namespace MathandComparisonOperatorsAssignment
     {
         static void Main(string[] args)
         {
-            //CONSOLE APP THAT MULTIPLIES USER INPUT BY 50
-            //Console.Write("Please enter a number. We will multiply it by 50. \n");
-            //string userInput =Console.ReadLine();
-            //long multi50 = Convert.ToInt64(userInput) * 50;
-            //Console.WriteLine("50 multiplied by " + userInput + " = " + multi50);
-            //Console.ReadLine();
 
             Console.WriteLine("Anonymous Income Comparison Program");
             
