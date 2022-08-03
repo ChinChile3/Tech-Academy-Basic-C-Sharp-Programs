@@ -110,13 +110,34 @@ namespace Challenges
             //}
 
             //USES TERNARY OPERATOR TO COMPARE TWO AGES
-            Console.WriteLine("Mary is 22 and John is 23");
-            int MaryAge = 22;
-            int JohnAge = 23;
-            string ageCheck = MaryAge > JohnAge ? "Mary is older than John." : "John is older than Mary.";
-            Console.WriteLine(ageCheck);
-            Console.ReadLine();
+            //Console.WriteLine("Mary is 22 and John is 23");
+            //int MaryAge = 22;
+            //int JohnAge = 23;
+            //string ageCheck = MaryAge > JohnAge ? "Mary is older than John." : "John is older than Mary.";
+            //Console.WriteLine(ageCheck);
+            //Console.ReadLine();
 
+
+            Console.WriteLine("Who is your favorite football tema in the NFC East? Pick the number associated with each team.");
+            Console.WriteLine("1 for Cowboys \r\n2 for Eagles \r\n3 for Commanders \r\n4 for Giants") ;
+            int favTeam = Convert.ToInt32(Console.ReadLine());
+
+            switch (favTeam)
+            {
+                case 1:
+                    Console.WriteLine("Your favorite team is the Dallas Cowboys.");
+                    break;
+                case 2:
+                    Console.WriteLine("Your favorite team is the Philadelphia Eagles.");
+                    break;
+                case 3:
+                    Console.WriteLine("Your favorite team is the Washington Commanders.");
+                    break;
+                case 4:
+                    Console.WriteLine("Your favorite team is the New York Giants.");
+                    break;
+            }
+            Console.ReadLine();
 
 
 
