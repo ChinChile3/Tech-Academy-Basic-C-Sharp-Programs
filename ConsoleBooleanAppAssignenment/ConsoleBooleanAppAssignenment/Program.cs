@@ -14,6 +14,7 @@ namespace ConsoleBooleanAppAssignenment
             int num = Convert.ToInt32(Console.ReadLine());
             bool chosenNum = num <= 4;
 
+            //DISPLAYS TO CONSOLE DEPENDING ON USER INPUT
             if (num == 1)
             {
                 Console.WriteLine("You have chosen 1. \r\n");
@@ -31,12 +32,14 @@ namespace ConsoleBooleanAppAssignenment
                 Console.WriteLine("You have chosen 4. \r\n");
             }
 
+            //IF USER INPUTS A INVALID NUMBER, IT WILL HAVE THE USER INPUT A NUMBER AGAIN
             while (!chosenNum)
             {
                 Console.WriteLine("Please input one of the given numbers.");
                 Console.WriteLine("Choose a number between 1 and 4.");
                 num = Convert.ToInt32(Console.ReadLine());
 
+                //WILL GIVE DIFFERENT RESPONSE AFTER A INCORRECT INPUT
                 chosenNum = num <= 4;
                 if (chosenNum == true)
                 {
@@ -44,10 +47,12 @@ namespace ConsoleBooleanAppAssignenment
                 }
             }
 
+            //ASKS TO CHOOSE ONE OF THE PREVIOUS VALID OPTIONS AS THE USERS FAVORITE NUMBER
             Console.WriteLine("Now out of these four numbers, which one is your favorite?");
             int favNum = Convert.ToInt32(Console.ReadLine());
             bool userFavNum = favNum > 4;
 
+            //DO WHILE LOOP THAT DISPLAYS DIFFERENT RESPONSES BASED ON USER INPUT
             do
             {
                 switch (favNum)
@@ -68,6 +73,7 @@ namespace ConsoleBooleanAppAssignenment
                         Console.WriteLine("Your favorite number is 4.");
                         userFavNum = true;
                         break;
+                    //RESPONSE IF USER INPUT IS AN INVALID CHOICE
                     default:
                         Console.WriteLine("Please input one of the given numbers.");
                         Console.WriteLine("Now out of these four numbers, which one is your favorite?");
@@ -81,30 +87,6 @@ namespace ConsoleBooleanAppAssignenment
             Console.ReadLine();
 
 
-
-
-            //switch ()
-            //{
-            //    case 1:
-            //        Console.WriteLine("You have chosen 1.");
-            //        num = num + 10;
-            //        break;
-            //    case 2:
-            //        Console.WriteLine("You have chosen 2.");
-            //        num = num + 10;
-            //        break;
-            //    case 3:
-            //        Console.WriteLine("You have chosen 3.");
-            //        num = num + 10;
-            //        break;
-            //    case 4:
-            //        Console.WriteLine("You have chosen 4.");
-            //        num = num + 10;
-            //        break;
-            //    default:
-            //        Console.WriteLine("Please input one of the given numbers.");
-            //        break;
-            //}
         }
     }
 }
