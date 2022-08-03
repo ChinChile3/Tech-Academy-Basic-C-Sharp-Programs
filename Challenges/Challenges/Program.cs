@@ -81,11 +81,45 @@ namespace Challenges
             //Console.ReadLine();
 
             //CONSOLE APP THAT DISPLAYS REMAINDER 
-            Console.Write("Please enter a number. We will divide it by 7, then show the remainder. \n");
-            string userInput7 = Console.ReadLine();
-            int remainder = Convert.ToInt32(userInput7) % 7;
-            Console.WriteLine(userInput7 + " divided by 7 will have a remainder of " + remainder);
+            //Console.Write("Please enter a number. We will divide it by 7, then show the remainder. \n");
+            //string userInput7 = Console.ReadLine();
+            //int remainder = Convert.ToInt32(userInput7) % 7;
+            //Console.WriteLine(userInput7 + " divided by 7 will have a remainder of " + remainder);
+            //Console.ReadLine();
+
+            //CONSOLE APP THAT COMPARES USER INPUT DO SEE IF IT DOES NOT EQUAL TEN
+            //Console.WriteLine("Please enter a number: ");
+            //string userInputNot = Console.ReadLine();
+            //bool notOper = Convert.ToInt32(userInputNot) != 10;
+            //Console.WriteLine(userInputNot + " does not equal ten. True or False: " + notOper);
+            //Console.ReadLine();
+
+            //CONSOLE APP THAT USES LESS THAN AND GREATER THAN/EQUAL TO OPERATORS
+            //Console.WriteLine("Please enter a number:");
+            //string userInput2 = Console.ReadLine();
+            //int compare2 = Convert.ToInt32(userInput2);
+            //if (compare2 > 64)
+            //{
+            //    Console.WriteLine("You must be retired.");
+            //    Console.ReadLine();
+            //}
+            //else if (compare2 <= 64)
+            //{
+            //    Console.WriteLine("Ahh, you must still be working.");
+            //    Console.ReadLine();
+            //}
+
+            //USES TERNARY OPERATOR TO COMPARE TWO AGES
+            Console.WriteLine("Mary is 22 and John is 23");
+            int MaryAge = 22;
+            int JohnAge = 23;
+            string ageCheck = MaryAge > JohnAge ? "Mary is older than John." : "John is older than Mary.";
+            Console.WriteLine(ageCheck);
             Console.ReadLine();
+
+
+
+
 
         }
     }
