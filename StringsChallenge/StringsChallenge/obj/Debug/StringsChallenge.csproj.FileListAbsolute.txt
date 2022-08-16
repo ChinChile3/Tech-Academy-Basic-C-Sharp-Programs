@@ -1,0 +1,6 @@
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\StringsChallenge\StringsChallenge\bin\Debug\StringsChallenge.exe.config
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\StringsChallenge\StringsChallenge\bin\Debug\StringsChallenge.exe
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\StringsChallenge\StringsChallenge\bin\Debug\StringsChallenge.pdb
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.exe
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\StringsChallenge\StringsChallenge\obj\Debug\StringsChallenge.pdb
