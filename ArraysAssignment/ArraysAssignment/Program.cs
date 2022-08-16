@@ -10,6 +10,7 @@ namespace ArraysAssignment
     {
         static void Main(string[] args)
         {
+            //Takes user input and displays value at chosen index that is a string
             string[] stringArray = { "You have chosen 0.", "You have chosen 1.", "You have chosen 2." };
 
             Console.WriteLine("Please choose a number between 0 and 2");
@@ -24,6 +25,9 @@ namespace ArraysAssignment
             Console.WriteLine(stringArray[userInput]);
             Console.ReadLine();
 
+
+
+            //Takes user input and displays value at chosen index that is a int
             int[] intArray = { 4, 7, 14, 47 };
 
             Console.WriteLine("Now, please choose a number between 0 and 3");
@@ -39,7 +43,7 @@ namespace ArraysAssignment
             Console.ReadLine();
 
 
-
+            //Takes user input and display string and chosen index from list
             List<string> stringList = new List<string>();
             stringList.Add("You have chosen 0");
             stringList.Add("You have chosen 1");
