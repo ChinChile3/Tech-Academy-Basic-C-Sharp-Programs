@@ -154,6 +154,20 @@ namespace ConsoleAppAssignment
             Console.ReadLine();
 
 
+            //ALTERNATIVE WAY TO WRITE CODE JUST ABOVE
+            //Console.WriteLine("Here is a list of sports teams:");
+            //foreach (string team in sportsTeams)
+            //{
+            //    if (dupSportsTeams.Contains(team)) //use to check if the empty list contains any of the items on the first list
+            //    {
+            //        Console.WriteLine("The " + team + " sports team has already appeared on this list.");
+            //    }
+            //    else if (!dupSportsTeams.Contains(team)) //use ! operator to check for opposite
+            //    {
+            //        Console.WriteLine("The " + team + " sports team has already appeared on this list.");
+            //        dupSportsTeams.Add(team);
+            //    }
+            //}
 
 
         }
