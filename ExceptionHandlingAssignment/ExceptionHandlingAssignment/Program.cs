@@ -13,7 +13,11 @@ namespace ExceptionHandlingAssignment
             try
             {
                 List<int> myNums = new List<int>() { 12, 4, 7, 28, 9, 13 };
-                Console.WriteLine("Here is a list of numbers: " + myNums);
+                Console.WriteLine("Here is a list of numbers: ");
+                foreach (int num in myNums)
+                {
+                    Console.WriteLine(num);
+                }
                 Console.WriteLine("Please choose a number. That number will used to to divide each number in the list by.");
                 int userNum = Convert.ToInt32(Console.ReadLine());
 
