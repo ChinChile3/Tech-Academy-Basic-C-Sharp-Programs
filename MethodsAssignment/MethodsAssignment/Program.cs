@@ -25,7 +25,7 @@ namespace MethodsAssignment
 
             int calMultiplyResult = calObject.Multiply(userInput);
             Console.WriteLine(userInput + " multiplied by " + 10 + " equals: " + calMultiplyResult);
-
+            
 
 
             Console.ReadLine();
