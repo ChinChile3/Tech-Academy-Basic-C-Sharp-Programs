@@ -8,6 +8,7 @@ namespace MethodsAssignment
 {
     public class Calculator
     {
+        //Methods that do math operations
         public int Add(int input)
         {
             return input + 10;
