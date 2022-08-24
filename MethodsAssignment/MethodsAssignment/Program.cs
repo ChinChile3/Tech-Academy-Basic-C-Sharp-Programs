@@ -13,8 +13,10 @@ namespace MethodsAssignment
             Console.WriteLine("Let's do some math using the number 10. \nPlease enter a number:");
             int userInput = Convert.ToInt32(Console.ReadLine());
 
+            //Instantiation of new calculator object 
             Calculator calObject = new Calculator();
 
+            //Calling the Add, Minus, and Multiply methods to do math operations on user input
             int calAddResult = calObject.Add(userInput);
             Console.WriteLine(userInput + " plus " + 10 + " equals: " + calAddResult);
 
