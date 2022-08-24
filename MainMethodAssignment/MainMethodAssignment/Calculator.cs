@@ -12,8 +12,8 @@ namespace MainMethodAssignment
         {
             return 25 + input;
         }
-
-        public decimal Calculate(decimal input)
+        //Changed method value to int, leaving in the Convert.ToInt
+        public int Calculate(decimal input)
         {
             return 25 - Convert.ToInt32(input);
         }

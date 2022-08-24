@@ -17,10 +17,11 @@ namespace MainMethodAssignment
             int addResult = calculator.Calculate(userInt);
             Console.WriteLine(25 + " plus " + userInt + " equals: " + addResult);
 
-
+            //Changed the results data type to int, which it will be once it uses the method that it calls
+            //Left the user input as a decimal, which should convert to an int in minusResult
             Console.WriteLine("Now, still using 25, please enter a decimal number:");
             decimal userDecimal = Convert.ToDecimal(Console.ReadLine());
-            decimal minusResult = calculator.Calculate(userDecimal);
+            int minusResult = calculator.Calculate(userDecimal);
             Console.WriteLine(25 + " minus " + userDecimal + " equals: " + minusResult);
 
 
