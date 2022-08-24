@@ -20,7 +20,7 @@ namespace ExceptionHandlingAssignment
                 foreach (int num in myNums) //Loop to divide each int in list by a user input number
                 {
                     Console.WriteLine(num + " divided by " + userNum + " equals: " + num / userNum);
-                    Console.ReadLine();
+                    //Console.ReadLine(); //Here was where it would take user input after every loop for each int in the list
                 }
             }
             catch (DivideByZeroException ex) //Will catch if user inputs 0 as their chosen number

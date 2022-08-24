@@ -1,0 +1,7 @@
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\TwentyOne(ClassesAndObjects)\TwentyOne(ClassesAndObjects)\bin\Debug\TwentyOne(ClassesAndObjects).exe.config
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\TwentyOne(ClassesAndObjects)\TwentyOne(ClassesAndObjects)\bin\Debug\TwentyOne(ClassesAndObjects).exe
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\TwentyOne(ClassesAndObjects)\TwentyOne(ClassesAndObjects)\bin\Debug\TwentyOne(ClassesAndObjects).pdb
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\TwentyOne(ClassesAndObjects)\TwentyOne(ClassesAndObjects)\obj\Debug\TwentyOne(ClassesAndObjects).csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\TwentyOne(ClassesAndObjects)\TwentyOne(ClassesAndObjects)\obj\Debug\TwentyOne(ClassesAndObjects).csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\TwentyOne(ClassesAndObjects)\TwentyOne(ClassesAndObjects)\obj\Debug\TwentyOne(ClassesAndObjects).exe
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\TwentyOne(ClassesAndObjects)\TwentyOne(ClassesAndObjects)\obj\Debug\TwentyOne(ClassesAndObjects).pdb
