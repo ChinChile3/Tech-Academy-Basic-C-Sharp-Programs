@@ -10,8 +10,5 @@ namespace MethodsAndObjectsAssignment
     {
         public int ID { get; set; }
 
-
-
-
     }
 }
