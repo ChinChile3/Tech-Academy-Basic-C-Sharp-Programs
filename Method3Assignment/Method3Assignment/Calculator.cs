@@ -10,7 +10,7 @@ namespace Method3Assignment
     {
         public static void Calculate(int input1, int input2)
         {
-            Console.WriteLine(20 * input1);
+            int mathOp = 20 * input1;
             Console.WriteLine(input2);
         }
 
