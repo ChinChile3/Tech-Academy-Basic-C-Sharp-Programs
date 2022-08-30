@@ -1,0 +1,7 @@
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\EmployeeConsoleApp\EmployeeConsoleApp\bin\Debug\EmployeeConsoleApp.exe.config
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\EmployeeConsoleApp\EmployeeConsoleApp\bin\Debug\EmployeeConsoleApp.exe
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\EmployeeConsoleApp\EmployeeConsoleApp\bin\Debug\EmployeeConsoleApp.pdb
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\EmployeeConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\EmployeeConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\EmployeeConsoleApp.exe
+C:\Users\Aaron\source\repos\Tech-Academy-Basic-C-Sharp-Programs\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\EmployeeConsoleApp.pdb
