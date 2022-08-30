@@ -29,5 +29,16 @@ namespace PolymorphismAssignment
         {
             return employee1.ID != employee2.ID;
         }
+
+
+
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
     }
 }
