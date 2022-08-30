@@ -10,6 +10,7 @@ namespace PolymorphismAssignment
     {
         public string firstName { get; set; }
         public string lastName { get; set; }
+        public object ID { get; internal set; }
 
         public abstract void SayName();
     }

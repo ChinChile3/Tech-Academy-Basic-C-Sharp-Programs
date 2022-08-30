@@ -16,14 +16,14 @@ namespace PolymorphismAssignment
             //quitEmployee.Quit();
             //Console.ReadLine();
 
-            Person employee1 = new Employee() { firstName = "Taylor", lastName = "Memmott", ID = 123 };
-            Person employee2 = new Employee() { firstName = "Travis", lastName = "Cann", ID = 321 };
+            Employee employee1 = new Employee() { firstName = "Taylor", lastName = "Memmott", ID = 123 };
+            Employee employee2 = new Employee() { firstName = "Travis", lastName = "Cann", ID = 123 };
 
-            bool matchID = employee1 == employee2;
+            bool matchID = employee1.ID == employee2.ID;
             
             if (matchID == true)
             {
-                Console.WriteLine("These employee IDs are the same. That shouldn't happen");
+                Console.WriteLine("These employee IDs are the same. That shouldn't happen.");
             }
             else if (matchID != true)
             {
