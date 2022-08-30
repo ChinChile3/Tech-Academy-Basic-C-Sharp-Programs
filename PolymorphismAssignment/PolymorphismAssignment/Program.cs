@@ -16,6 +16,8 @@ namespace PolymorphismAssignment
             //quitEmployee.Quit();
             //Console.ReadLine();
 
+            //CHANGED employee1 and employee2 TO Employee OBJECTS. OPERATORS CAN NOW COMPARE EITHER TRUE OR FALSE.
+            //BEFORE THIS CHANGE, IT AS JUST PASSING THE COMPARISON AS FALSE
             Employee employee1 = new Employee() { firstName = "Taylor", lastName = "Memmott", ID = 123 };
             Employee employee2 = new Employee() { firstName = "Travis", lastName = "Cann", ID = 123 };
 
