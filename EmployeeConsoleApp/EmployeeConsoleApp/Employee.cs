@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace EmployeeConsoleApp
 {
+    //Class with generic parameters
     public class Employee<T> : Person, IQuittable
     {
         public int ID { get; set; }
+        //Things property with generic list
         public List<T> Things { get; set; }
 
         public override void SayName()
