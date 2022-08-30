@@ -18,6 +18,9 @@ namespace PolymorphismAssignment
         {
             Console.WriteLine(firstName + " " + lastName + " has quit the company.");
         }
+
+
+        //OVERLOADED OPERATORS
         public static bool operator== (Employee employee1, Employee employee2)
         {
             return employee1.ID == employee2.ID;
