@@ -42,18 +42,18 @@ namespace EmployeeConsoleApp
             employees.Add(new Employee() { firstName = "Joe", lastName = "Henry", ID = 132 });
 
             //Foreach loop of adding employees with the name "Joe" to a separate list
-            //List<Employee> joeEmployees = new List<Employee>();
-            //foreach (Employee employee in employees)
-            //{
-            //    if (employee.firstName == "Joe")
-            //    {
-            //        joeEmployees.Add(employee);
-            //    }  
-            //}
-            //foreach (Employee joeEmployee in joeEmployees)
-            //{
-            //    Console.WriteLine(joeEmployee.firstName + " " + joeEmployee.lastName + " " + joeEmployee.ID);
-            //}
+            List<Employee> joeEmployees = new List<Employee>();
+            foreach (Employee employee in employees)
+            {
+                if (employee.firstName == "Joe")
+                {
+                    joeEmployees.Add(employee);
+                }
+            }
+            foreach (Employee joeEmployee in joeEmployees)
+            {
+                Console.WriteLine(joeEmployee.firstName + " " + joeEmployee.lastName + " " + joeEmployee.ID);
+            }
 
             //Lambda expression to make list with employees that have the name "Joe"
             List<Employee> employeesJoe = employees.Where(x => x.firstName == "Joe").ToList();
