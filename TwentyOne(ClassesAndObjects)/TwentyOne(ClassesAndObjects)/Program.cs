@@ -10,31 +10,37 @@ namespace TwentyOne_ClassesAndObjects_
     {
         static void Main(string[] args)
         {
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            //game.ListPlayers();
-            //Console.ReadLine();
-
-            //Game game = new TwentyOneGame();
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Anthony";
-            //game += player;
-            //game -=player;
 
             Deck deck = new Deck();
-            deck.Shuffle(times: 3);
+            //deck.Shuffle(times: 3);
 
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
 
 
-        }
 
+
+
+            //LABMDA FUNCTION EXAMPLES FOR REFERENCE
+            //int count = deck.Cards.Count(x => x.Face == Face.Ace);
+
+            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
+
+            //List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
+
+            ////Me playing around with lambda functions 
+            ////List<int> newNumList = numberList.Where(x => x > 20).ToList();
+            ////foreach (int num in newNumList)
+            ////{
+            ////    Console.WriteLine(num);
+            ////}
+            //int sum = numberList.Where(x => x > 20).Sum();
+            //Console.WriteLine(sum);
+        }
     }
 }
